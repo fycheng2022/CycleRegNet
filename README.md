@@ -3,10 +3,9 @@
 This is the official implementation of:<br>
 CycleRegNet: A Scale-aware and Geometry-Consistent Cycle Adversarial Model for Infrared and Visible Image Registration.
 
-<p align="center">
-    <img src='https://raw.githubusercontent.com/moabarar/nemar/nemar_deploy/teaser.gif' alt='missing' />
-    <br>Registration output during 50 training epochs 
-</p>
+![Registration output during 50 training epochs](https://raw.githubusercontent.com/moabarar/nemar/nemar_deploy/teaser.gif)
+
+<center>Registration output during 50 training epochs</center>
 
 ## Getting started
 
@@ -40,6 +39,7 @@ If you use this repository - please cite:
 
 
 Since this repository is based on NeMAR & Pix2Pix & CycleGan framework - make sure you cite these two awesome papers:
+
     @InProceedings{Arar_2020_CVPR,
     author = {Arar, Moab and Ginger, Yiftach and Danon, Dov and Bermano, Amit H. and Cohen-Or, Daniel},
     title = {Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation},
