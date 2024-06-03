@@ -3,9 +3,9 @@
 This is the official implementation of:<br>
 CycleRegNet: A Scale-aware and Geometry-Consistent Cycle Adversarial Model for Infrared and Visible Image Registration.
 
-![Registration output during 50 training epochs](https://raw.githubusercontent.com/moabarar/nemar/nemar_deploy/teaser.gif)
+![Framework of network](./Img/fig1.jpg)
 
-<center>Registration output during 50 training epochs</center>
+<center>Framework of network</center>
 
 ## Getting started
 
