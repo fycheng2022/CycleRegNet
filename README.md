@@ -16,7 +16,7 @@ recommened getting yourself familiar with the former framework. Here we provide 
 
 ### (Step 1) Preparing your data
 
-1image_compose.py ：Merge images A and B into image AB, and save the data in the dataset. This needs to be done only once
+1. image_compose.py ：Merge images A and B into image AB, and save the data in the dataset. This needs to be done only once
 
 
 ---
